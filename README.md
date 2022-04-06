@@ -6,3 +6,4 @@ Contains code from Brad Traversy's course 50 projects in 50 days. Original cours
 
 - 01 Expanding Cards
 - 02 Progress Steps
+- 03 Rotating Navigation
