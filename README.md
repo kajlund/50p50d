@@ -5,3 +5,4 @@ Contains code from Brad Traversy's course 50 projects in 50 days. Original cours
 ## Projects
 
 - 01 Expanding Cards
+- 02 Progress Steps
